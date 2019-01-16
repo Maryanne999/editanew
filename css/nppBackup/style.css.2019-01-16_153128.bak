@@ -1404,16 +1404,4 @@ a.btn.btn-arrow.btn-arrow--right:before {
 	.js-slide-carousel .slick-next.slick-arrow {
 		right: 0;
 	}
-	.about-content__img {
-		display: none;
-	}
-	.about-content {
-    flex-direction: column;
-}
-	.about-content__left-block, .about-content__right-block {
-    width: 100%;
-	}
-	.about-content__txt--since-wrapper::after {
-		display: none;
-	}
 }
