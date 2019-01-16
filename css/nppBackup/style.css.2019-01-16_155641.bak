@@ -1426,7 +1426,4 @@ a.btn.btn-arrow.btn-arrow--right:before {
 	.about-content__txt--since-wrapper {
     padding: 0;
 }
-	.banner__content.banner__content--lg {
-    top: 110px;
-}
 }

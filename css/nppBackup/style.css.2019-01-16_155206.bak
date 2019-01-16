@@ -1399,17 +1399,16 @@ a.btn.btn-arrow.btn-arrow--right:before {
 }
 
 @media (max-width: 425px) {
-
-}
-
-
-@media (max-width: 425px) {
-		.js-slide-carousel .slick-prev.slick-arrow {
+	.js-slide-carousel .slick-prev.slick-arrow {
 		left: 0;
 	}
 	.js-slide-carousel .slick-next.slick-arrow {
 		right: 0;
 	}
+}
+
+
+@media (max-width: 424px) {
 
 	.about-content__img {
 		display: none;
@@ -1423,10 +1422,4 @@ a.btn.btn-arrow.btn-arrow--right:before {
 	.about-content__txt--since-wrapper::after {
 		display: none;
 	}
-	.about-content__txt--since-wrapper {
-    padding: 0;
-}
-	.banner__content.banner__content--lg {
-    top: 110px;
-}
 }
